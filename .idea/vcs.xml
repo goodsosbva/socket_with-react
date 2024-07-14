@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/IOchat/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/answer_code/socket-programming-using-react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/html5-websocket/client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/namespace/client" vcs="Git" />
   </component>
